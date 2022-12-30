@@ -2,6 +2,8 @@
 
 Description: This program takes building furnishings and size and calculates the cost to clean yearly. This program uses ISSA standards and APPA cleaning                    levels. Understanding where your employees time is spent can be a valuable resource for any maintenance or custodial manager.  
 
+Run by compiling the DYRDECK.py file. 
+
 How to use: 1) Begin by entering information into the 'Rooms' tab. Add rooms by clicking the purple button on the right. 
                Adding a room will consist of counting cleanable objects (i.e. mirrors, glass, desks) and measuring the square footage of the floor.
             2) As room information is added the program will add charts and numbers displayed on the 'Dashboard' tab. 
